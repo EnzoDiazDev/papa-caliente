@@ -1,13 +1,13 @@
 {
   "name": "papa_caliente",
   "version": "1.0.0",
-  "description": "la papa está caliente",
+  "description": "La papa está caliente",
   "main": "src/index.js",
   "scripts": {
     "start": "node .",
     "dev": "cross-env NODE_ENV=development nodemon ."
   },
-  "author": "Enzo diaz",
+  "author": "Enzo Diaz",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.2.0"
